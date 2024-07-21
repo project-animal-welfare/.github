@@ -16,11 +16,11 @@
 
 ## Supported Documents
 
-[Architecture](/Architecture/Architecture.png)
+[Architecture](https://github.com/project-animal-welfare/about-project/Architecture/Architecture.png)
 
-[Feature Set](/Architecture/Feature%20Set/FeatureSet.png)
+[Feature Set](https://github.com/project-animal-welfare/about-project/Architecture/Feature%20Set/FeatureSet.png)
 
-[Data Model](/Data%20Model/data.js)
+[Data Model](https://github.com/project-animal-welfare/about-project/Data%20Model/data.js)
 
 [Frontend](https://github.com/project-animal-welfare/frontend)
 

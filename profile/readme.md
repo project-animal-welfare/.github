@@ -32,4 +32,4 @@
 --- | --- | --- |
 Tushar Vats | [Email](mailto:trv83499@gmail.com)  | Idea, Product Marketing, Social Media, Revenue
 Shivam Agarwal | [Email](mailto:shivamagarwal36029@gmail.com) | Product Development, Architecture, Release
-Mritunjay Singh | [Email](mailto:mritunjays0907@gmail.com) | Development, Finance
+Mritunjay Singh | [Email](mailto:mritunjays0907@gmail.com) | Development
